@@ -1,5 +1,6 @@
 colorama
 asyncio
+asyncssh
 requests
 bs4
 dnspython
